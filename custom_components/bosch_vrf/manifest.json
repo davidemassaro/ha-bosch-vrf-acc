@@ -1,6 +1,7 @@
 {
   "domain": "bosch_vrf",
   "name": "Bosch VRF ACC",
+  "categories": ["climate"],
   "codeowners": ["@davidemassaro"],
   "config_flow": true,
   "documentation": "https://github.com/davidemassaro/ha-bosch-vrf-acc",
