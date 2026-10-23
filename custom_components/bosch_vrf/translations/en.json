@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Bosch VRF ACC",
+        "data": {"host": "Host", "username": "Username", "password": "Password"}
+      },
+      "reconfigure": {
+        "title": "Bosch VRF ACC",
+        "data": {"host": "Host", "username": "Username", "password": "Password"}
+      }
+    },
+    "error": {"cannot_connect": "Cannot connect or invalid credentials"},
+    "abort": {
+      "already_configured": "Already configured",
+      "reconfigure_successful": "Settings updated"
+    }
+  }
+}
